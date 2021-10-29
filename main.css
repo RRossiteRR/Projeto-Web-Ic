@@ -1,0 +1,103 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: aliceblue;
+}
+
+h1{
+    margin: 10px;
+}
+
+h3{
+    margin: 10px
+}
+
+p{
+    margin: 10px;
+    font-size: 18px;
+}
+
+img{
+    border-radius: 500px;
+}
+
+hr{
+    margin: 10px;
+}
+
+li{
+    margin-left: 28px;
+    font-size: 20px;
+}
+
+footer{
+    margin: 40px;
+    border-style: outset;
+}
+
+nav{
+    font-size: 23px;
+    margin: 10px;
+}
+
+a{
+    font-size: 35px;
+    margin: 25px;
+    color: rgb(165, 163, 163);
+    text-decoration: none;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+.caixa{
+    display: flex;
+    justify-content: space-around;
+}
+
+.ficha{
+    border: outset;
+    width: 400px;
+    height: 500px;
+}
+
+.detalhesTitulo{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    font-size: 25px;
+}
+
+.perfil{
+    width: 400px;
+    height: 500px;
+}
+
+.origem{
+    font-size: 20px;
+}
+
+.rodape{
+    display: flex;
+    justify-content: space-around;
+}
+
+.instagram{
+    color: rgb(202, 47, 132);
+}
+
+.twitter{
+    color: rgb(36, 132, 221);
+}
+
+.facebook{
+    color: rgb(6, 6, 179);
+}
